@@ -1,0 +1,12 @@
+{
+	"name": "link_to_azure_blob",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=newstorageaccount77;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEZERjBFRTA1LTA1NEUtNDUxQS05QzFBLTE5RUFBNjI4MTA5Ml8yYjlkYjBmZC0zYWYwLTRiZWEtODgxMy00OGU4MTQwZDk1ZWQiDQp9"
+		}
+	}
+}
