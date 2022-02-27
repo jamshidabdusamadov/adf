@@ -1,0 +1,9 @@
+{
+	"name": "gitsupportedadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6795ecec-052a-4baf-a2ac-a54514039dfc",
+		"tenantId": "42dcbf55-5f98-4e02-82ab-90def1ffc2f3"
+	}
+}
