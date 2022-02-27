@@ -1,0 +1,9 @@
+{
+	"name": "adfbackup77",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1d261f2-ede8-45d3-bc22-e155b9d162bd",
+		"tenantId": "42dcbf55-5f98-4e02-82ab-90def1ffc2f3"
+	}
+}
