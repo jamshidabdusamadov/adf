@@ -1,0 +1,16 @@
+{
+	"name": "load_emp_tbl_to_destination",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "link_to_azure_sql",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "employee"
+		}
+	}
+}
